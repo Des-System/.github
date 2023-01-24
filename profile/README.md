@@ -1,11 +1,10 @@
 <div align="center">
-    <div>
-        <img width="200" src="https://github.com/Nexa-Project/branding/blob/master/wordmark/wordmark-colorful-light.svg?raw=true#gh-dark-mode-only">
-        <img width="200" src="https://github.com/Nexa-Project/branding/blob/master/wordmark/wordmark-colorful.svg?raw=true#gh-light-mode-only">
+    <div style="margin: 16px;">
+        <img width="240" style="margin: 8px;" src="https://github.com/Nexa-Project/branding/blob/master/wordmark/wordmark-colorful-light.svg?raw=true#gh-dark-mode-only">
+        <img width="240" style="margin: 8px;" src="https://github.com/Nexa-Project/branding/blob/master/wordmark/wordmark-colorful.svg?raw=true#gh-light-mode-only">
+        <br><b>Leading the New FOSS Software Industry</b>
     </div>
-    <p style="font-weight: bold;">Leading the New FOSS Software Industry</p>
-    <p>
-        Our projects: Nexa System & Flexture <br>
-        <small>These projects are currently work in progress</small>
-    </p>
+    Our projects: Nexa System & Flexture<br>
+    <sub><sup>These projects are currently work in progress</sup></sub>
 </div>
+
